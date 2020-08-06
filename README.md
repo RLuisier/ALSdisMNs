@@ -42,12 +42,12 @@ On your remote  machine (access via SHH for example):
 
 1. `cd $MY_PATH`
 1. `source ./env/bin/activate` 
-1. `jupyter notebook --no-browser --port=8886`
+1. `jupyter notebook --no-browser --port=8786`
 
 On your local machine:
 
-1. `ssh -N -L localhost:8887:localhost:8886 idiap`
-1. Open your browser on the local machine and type in the address bar: `localhost:8887`
+1. `ssh -N -L localhost:8787:localhost:8886 <username@remote.com>`
+1. Open your browser on the local machine and type in the address bar: `localhost:8787`
 
 
 
