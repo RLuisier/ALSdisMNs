@@ -7,7 +7,7 @@ This repository contains source code to implement automated identification of MN
 ## Repository content
 * [Scripts](./Scripts): Jupyter Notebook containing `R` and `Python` codes to automatically identify MNs subpopulation from the data.
 * [Figures](./Figures): raw figures as outputted by the analysis and used for the paper. 
-* [Data](./Data): folder containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline. This should can be dowloaded from Zenodo under the accession number 3981414.
+* [Data](https://zenodo.org/record/3981414#.XzRMxqeB3OQ): folder containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline. This should can be dowloaded from Zenodo under the accession number 3981414.
 
 
 
