@@ -1,13 +1,13 @@
 # ALSdisMNs
-Automated identification of disease motor neurons (disMNs) in histopathological sections from high-content microscopy data
+Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue.
 
 ## Overview
-This repository contains source code to implement automated identification of MNs exhibiting aberrant phenotype from high-content microscopy data. It contains the raw data as acquired from CellProfiler for both mouse and human spinal cord MNs, two Jupyter notebook allowing to reproduce the figures in manuscript *Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue*, Hageman et al. 2020 (BioRxiv). 
+This repository contains source code to implement automated identification of MNs exhibiting aberrant phenotype from high-content microscopy data. It contains two Jupyter notebook allowing to reproduce the figures in manuscript *Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue*, Hageman et al. 2020 (BioRxiv). All data required to reproduce the manuscript can be download on [Zenodo](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
 
 ## Repository content
 * [Scripts](./Scripts): Jupyter Notebook containing `R` and `Python` codes to automatically identify MNs subpopulation from the data.
 * [Figures](./Figures): raw figures as outputted by the analysis and used for the paper. 
-* [Data](https://zenodo.org/record/3981414#.XzRMxqeB3OQ): folder containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline. This should can be dowloaded from Zenodo under the accession number 3981414.
+* [Data](https://zenodo.org/record/3981414#.XzRMxqeB3OQ): this folder should containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline if one wants to replicate the work. This folder can be direclty dowloaded from Zenodo under the accession number [3981414](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
 
 
 
