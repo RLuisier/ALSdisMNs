@@ -5,9 +5,10 @@ Automated identification of disease motor neurons (disMNs) in histopathological 
 This repository contains source code to implement automated identification of MNs exhibiting aberrant phenotype from high-content microscopy data. It contains the raw data as acquired from CellProfiler for both mouse and human spinal cord MNs, two Jupyter notebook allowing to reproduce the figures in manuscript *Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue*, Hageman et al. 2020 (BioRxiv). 
 
 ## Repository content
-* [Data](./Data): folder containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline...
 * [Scripts](./Scripts): Jupyter Notebook containing `R` and `Python` codes to automatically identify MNs subpopulation from the data.
 * [Figures](./Figures): raw figures as outputted by the analysis and used for the paper. 
+* [Data](./Data): folder containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline. This should can be dowloaded from Zenodo under the accession number 3981414.
+
 
 
 ## Dependencies
