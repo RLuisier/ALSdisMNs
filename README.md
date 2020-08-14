@@ -1,6 +1,8 @@
 # ALSdisMNs
 Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue.
 
+<img src="./Figures/Untitled.jpg" width="1000">
+
 ## Overview
 This repository contains source code to implement automated identification of MNs exhibiting aberrant phenotype from high-content microscopy data. It contains two Jupyter notebook allowing to reproduce the figures in manuscript *Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue*, Hageman et al. 2020 (BioRxiv). All data required to reproduce the manuscript can be download on [Zenodo](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
 
