@@ -7,7 +7,7 @@ Automated and unbiased classification of motor neuron phenotypes with single cel
 This repository contains source code to implement automated identification of MNs exhibiting aberrant phenotype from high-content microscopy data. It contains two Jupyter notebook allowing to reproduce the figures in manuscript *Automated and unbiased classification of motor neuron phenotypes with single cell resolution in ALS tissue*, Hageman et al. 2020 (BioRxiv). All data required to reproduce the manuscript can be download on [Zenodo](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
 
 ## Repository content
-* [Data](https://zenodo.org/record/3981414#.XzRMxqeB3OQ): this folder should containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline if one wants to replicate the work. All scripts as well as the raw images required to reproduce these can be downloaded from Zenodo together with the Data folder under the accession number [3981414](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
+* [Data](http://doi.org/10.5281/zenodo.3985099): this folder should containing all raw data acquired from CellProfiler on multichanel fluorescent images segmented using the pipeline if one wants to replicate the work. All scripts as well as the raw images required to reproduce these can be downloaded from Zenodo together with the Data folder under the accession number [3981414](https://zenodo.org/record/3981414#.XzRMxqeB3OQ).
 * [Scripts](./Scripts): Jupyter Notebook containing `R` and `Python` codes to automatically identify MNs subpopulation from the single-cell measurements data outputted by CellProfiler.
 * [Figures](./Figures): raw figures as outputted by the analysis and used for the paper. 
 
